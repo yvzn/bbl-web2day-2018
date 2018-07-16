@@ -21,17 +21,46 @@ https://www.youtube.com/watch?v=hzTWmtshfwQ
 	- Pouvoir se nourrir ailleurs
 	- objectif: avoir 20% de temps libre
 
+## Sales
+VENDRE : C’EST PAS SORCIER. COMMENT DEVENIR « SALES NINJA »
+- Annabelle ROBERTS
+- Théorie de la veste
+- Quota "3 vestes par jour" (3 paramètre à ajuster)
+	- Positiver l'échec
+	- Devenir habitué à l'échec
+- Copain de la loose, pour célébrer les vestes
+	- "Bravo, good loose"
+	- Dédramatiser
+- Quota non atteint ?
+	- on n'a pas assez essayé / trop restrictif
+	- relancer: "you never know"
+
+## How bookkeepers fucked up IT
+- Quentin ADAM
+- No "forever" solutions
+	- Pouvoir changer de stack (no "company stack")
+	- Savoir "supprimer du code" (en réutilisant des frameworks externes / des logiciels externes)
+	- Rebuild everything: parfois on a besoin de se planter sur un premier projet mal construit pour apprendre comment faire et aller beaucoup plus vite sur les projets suivants
+
 ## Comment l'IA va augmenter l'homme
 - WILLIAM ELDIN
 https://www.youtube.com/watch?v=LkuUm6ZplAA
 
-- Les machines n'ont pas d'émotions
-- La technologie vient de notre imagination
-- Apprendre à apprendre, progresser, se développer
-	- comme Lucy, c'est le cerveau qu'on n'utilise pas
 - L'IA nous libère du temps de cerveau
 	- comme la mécanisation
 	- encore loin de nous dépasser / progresse lentement
+- Apprendre à apprendre, progresser, se développer
+	- comme Lucy, c'est le cerveau qu'on n'utilise pas
+- Les machines n'ont pas d'émotions
+- La technologie vient de notre imagination
+
+## Recast.Ai
+RECAST.AI : FOUNDER STORY
+- Jasmine ANTEUNIS
+https://www.youtube.com/watch?v=x8a6Bs-OHog
+
+- Décider plus vite:
+	- Si on se trompe, on s'en rend compte plus rapidement
 
 ## Think like a startup / dont act like one
 - Oscar KNEPPERS
@@ -51,20 +80,6 @@ https://www.youtube.com/watch?v=HbtEJZZYCzc
 	- Tout essayer
 	- L'honnêteté dure plus longtemps
 - "Sometimes you get hurt, but it's the best way to get hurt"
-
-## Sales
-VENDRE : C’EST PAS SORCIER. COMMENT DEVENIR « SALES NINJA »
-- Annabelle ROBERTS
-- Théorie de la veste
-- Quota "3 vestes par jour" (3 paramètre à ajuster)
-	- Positiver l'échec
-	- Devenir habitué à l'échec
-- Copain de la loose, pour célébrer les vests
-	- "Bravo, good loose"
-	- Dédramatiser
-- Quota non atteint ?
-	- on n'a pas assez essayé / trop restrictif
-	- relancer: "you never know"
 
 ## Agile methods are dangerous
 - Julian HOLMES
@@ -107,18 +122,3 @@ https://www.youtube.com/watch?v=1eRb0tiKRPc
 	- les gens doivent percevoir le problème, avant d'accepter le changement
 	- passer des diagrammes de gantt à un feedback réaliste et temps réel
 	- "la réussite" est la clé
-	
-## How bookkeepers fucked up IT
-- No "forever" solutions
-	- Pouvoir changer de stack (no "company stack")
-	- Savoir "supprimer du code" (en réutilisant des frameworks externes / des logiciels externes)
-	- Rebuild everything: parfois on a besoin de se planter sur un premier projet mal construit pour apprendre comment faire et aller beaucoup plus vite sur les projets suivants
-	
-## Recast.Ai
-RECAST.AI : FOUNDER STORY
-- Jasmine ANTEUNIS
-https://www.youtube.com/watch?v=x8a6Bs-OHog
-
-- Décider plus vite:
-	- Si on se trompe, on s'en rend compte plus rapidement
-	
