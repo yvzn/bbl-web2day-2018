@@ -1,6 +1,10 @@
 # Web2day 2018
 
 ## Softskills
+QUELLES COMPÉTENCES POUR TRAVAILLER DANS UN MONDE DIGITAL EN CONSTANTE ÉVOLUTION ?
+- Céline BOISSON - Jérôme HOARAU
+https://www.youtube.com/watch?v=hzTWmtshfwQ
+
 - Concentration, motivation, curiosité, tenacité, capacité à apprendre
 - Routines pour les améliorer
 	- Introspection (Cette activité m'a appris à ...)
@@ -17,7 +21,10 @@
 	- Pouvoir se nourrir ailleurs
 	- objectif: avoir 20% de temps libre
 
-## Comment l'IA va changer l'homme
+## Comment l'IA va augmenter l'homme
+- WILLIAM ELDIN
+https://www.youtube.com/watch?v=LkuUm6ZplAA
+
 - Les machines n'ont pas d'émotions
 - La technologie vient de notre imagination
 - Apprendre à apprendre, progresser, se développer
@@ -27,6 +34,9 @@
 	- encore loin de nous dépasser / progresse lentement
 
 ## Think like a startup / dont act like one
+- Oscar KNEPPERS
+https://www.youtube.com/watch?v=HbtEJZZYCzc
+
 - Les founders ont souvent une personnalité horrible (maniaques, égocentriques)
 - Les conseils ça craint
 - Avocats
@@ -43,6 +53,8 @@
 - "Sometimes you get hurt, but it's the best way to get hurt"
 
 ## Sales
+VENDRE : C’EST PAS SORCIER. COMMENT DEVENIR « SALES NINJA »
+- Annabelle ROBERTS
 - Théorie de la veste
 - Quota "3 vestes par jour" (3 paramètre à ajuster)
 	- Positiver l'échec
@@ -55,6 +67,9 @@
 	- relancer: "you never know"
 
 ## Agile methods are dangerous
+- Julian HOLMES
+https://www.youtube.com/watch?v=1eRb0tiKRPc
+
 - Les méthodes agiles apportent de la valeur, mais...
 	- Parfois on n'est pas au même niveau de compréhension
 	- Comment orienter la conversation ?
@@ -92,4 +107,18 @@
 	- les gens doivent percevoir le problème, avant d'accepter le changement
 	- passer des diagrammes de gantt à un feedback réaliste et temps réel
 	- "la réussite" est la clé
+	
+## How bookkeepers fucked up IT
+- No "forever" solutions
+	- Pouvoir changer de stack (no "company stack")
+	- Savoir "supprimer du code" (en réutilisant des frameworks externes / des logiciels externes)
+	- Rebuild everything: parfois on a besoin de se planter sur un premier projet mal construit pour apprendre comment faire et aller beaucoup plus vite sur les projets suivants
+	
+## Recast.Ai
+RECAST.AI : FOUNDER STORY
+- Jasmine ANTEUNIS
+https://www.youtube.com/watch?v=x8a6Bs-OHog
+
+- Décider plus vite:
+	- Si on se trompe, on s'en rend compte plus rapidement
 	
