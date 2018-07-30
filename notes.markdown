@@ -49,7 +49,9 @@ RECAST.AI : FOUNDER STORY
 https://www.youtube.com/watch?v=x8a6Bs-OHog
 
 - Décider plus vite:
-	- Si on se trompe, on s'en rend compte plus rapidement## Comment l'IA va augmenter l'homme
+	- Si on se trompe, on s'en rend compte plus rapidement
+	
+## Comment l'IA va augmenter l'homme
 - WILLIAM ELDIN
 https://www.youtube.com/watch?v=LkuUm6ZplAA
 
