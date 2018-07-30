@@ -37,12 +37,19 @@ VENDRE : C’EST PAS SORCIER. COMMENT DEVENIR « SALES NINJA »
 
 ## How bookkeepers fucked up IT
 - Quentin ADAM
+https://www.youtube.com/watch?v=5dY3zJNB3xI
 - No "forever" solutions
 	- Pouvoir changer de stack (no "company stack")
 	- Savoir "supprimer du code" (en réutilisant des frameworks externes / des logiciels externes)
 	- Rebuild everything: parfois on a besoin de se planter sur un premier projet mal construit pour apprendre comment faire et aller beaucoup plus vite sur les projets suivants
 
-## Comment l'IA va augmenter l'homme
+## Recast.Ai
+RECAST.AI : FOUNDER STORY
+- Jasmine ANTEUNIS
+https://www.youtube.com/watch?v=x8a6Bs-OHog
+
+- Décider plus vite:
+	- Si on se trompe, on s'en rend compte plus rapidement## Comment l'IA va augmenter l'homme
 - WILLIAM ELDIN
 https://www.youtube.com/watch?v=LkuUm6ZplAA
 
@@ -53,14 +60,6 @@ https://www.youtube.com/watch?v=LkuUm6ZplAA
 	- comme Lucy, c'est le cerveau qu'on n'utilise pas
 - Les machines n'ont pas d'émotions
 - La technologie vient de notre imagination
-
-## Recast.Ai
-RECAST.AI : FOUNDER STORY
-- Jasmine ANTEUNIS
-https://www.youtube.com/watch?v=x8a6Bs-OHog
-
-- Décider plus vite:
-	- Si on se trompe, on s'en rend compte plus rapidement
 
 ## Think like a startup / dont act like one
 - Oscar KNEPPERS
@@ -122,3 +121,7 @@ https://www.youtube.com/watch?v=1eRb0tiKRPc
 	- les gens doivent percevoir le problème, avant d'accepter le changement
 	- passer des diagrammes de gantt à un feedback réaliste et temps réel
 	- "la réussite" est la clé
+
+- "Dites juste à tout le monde de devenir agile"
+	- Il n'y a pas de baguette magique
+	- Commencer petit et scaler
