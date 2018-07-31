@@ -7,6 +7,8 @@ note:
   * entrepreunariat
   * découverte => thèmes softskills
 
+---
+
 ## Softskills
 
 [📺](https://www.youtube.com/watch?v=hzTWmtshfwQ)
@@ -17,11 +19,15 @@ note:
 * Céline BOISSON
 * Jérôme HOARAU
 
+---
+
 ## Définition
 
 note:
 * ≠ skills
 * compétences pas direct° liées au métier
+
+---
 
 ## Exemples
 
@@ -31,16 +37,22 @@ note:
 * Tenacité
 * Capacité à apprendre
 
+---
+
 ## Routines
 
 note:
 * Acq./Amélior° g^ routines 
 
+---
+
 ## Introspection
 
 note:
-* Cette activité m'a appris...
+* Cette activité m'a appris à...
 * C^ l'école (activités "non scolaires")
+
+---
 
 ## 1 enseignement par jour
 
@@ -49,13 +61,16 @@ note:
 * +++ si erreur
 * autre ex: digestion 10min / jour
 
+---
+
 ## Transparence et échange
 
 note:
-* exemple de softskill
 * Sur quoi je travaille / mes objectifs
 * Evaluation par ses pairs
 * transition => agilité
+
+---
 
 ## Agile methods are dangerous
 
@@ -66,6 +81,8 @@ note:
 * ThoughtWorks (TechRadar)
 * Titre volontairement provocateur
 
+---
+
 ## Les méthodes agiles apportent de la valeur
 
 * mais...
@@ -73,6 +90,8 @@ note:
 note:
 * Parfois pas le même niv° de compréhens°
 * C^? orienter la conversation ?
+
+---
 
 ## Transparence...
 * "Ca y est, on est agile ?"
@@ -85,26 +104,24 @@ note:
 * l'agilité rend transparent
 * plus de collaboration, s'adapter
   * amélioration continue (rétrospective)
-  * recueillir la contribution de tout le monde
+
+---
 
 ## ...et échange
 * "Ne me parlez pas d'agilité !"
 
 note:
 * Ne pas imposer de force
-* Ne pas tout préfixer avec "Agile"
-* Expliquer c^? "réduire le risque, augmenter la prédictibilité"
+* Ne pas tout appeler "Agile"
+* "réduire le risque, augmenter la prédictibilité"
 	* arguement parlant
-    
-## ...et échange
-* "L'agilité ne s'applique pas à notre organisation"
-
-note:
-* les gens doivent percevoir le problème, avant d'accepter le changement
-* diagrammes de gantt => feedback réaliste / temps réel
 * transition => la réussite (ou sa perception) est la clé
 
-# --- TRANSITION ---
+---
+
+🌐
+
+---
 
 ## Culture positive de l'échec
 
@@ -113,15 +130,19 @@ note:
 note:
 * plx conférences/rex sur le sujet
 
-## Culture positive de l'échec
+---
 
+## Valoriser la prise de risque
+
+* Bienveillance
 * "Courageous penguin"
-* Valoriser la prise de risque
-* bienveillance
 
 note:
 * le 1er qui saute à l'eau (modèle)
 * risque = sécurité (risque sans sécurité = danger)
+* prise de risque seult si sécurité
+
+---
 
 ## Recast.Ai
 
@@ -129,15 +150,21 @@ note:
 
 note:
 * Jasmine ANTEUNIS
+* NLP + Chatbots
+	* Rachat SAP
 * Jeune qui a réussi
-* Rachat SAP
+
+---
 
 ## Recast.Ai
-* Décider plus vite
+* Décider (plus) vite
 
 note:
 * Si on se trompe, on s'en rend compte plus rapidement
+* Si ça n'apporte rien au produit, on abandonne
 * "Ils ne savaient pas que c'était impossible..."
+
+---
 
 ## How bookkeepers fucked up IT
 
@@ -146,16 +173,17 @@ note:
 note:
 * Quentin ADAM
 
+---
+
 ## How bookkeepers fucked up IT
 
-* No "forever" solutions
-* No "company stack"
 * Savoir "supprimer du code"
 
 note:
-* => liberté de choix
 * utiliser frameworks (ou softs) externes
 * externaliser la maintenance/responsabilité
+
+---
 
 ## How bookkeepers fucked up IT
 
@@ -167,10 +195,24 @@ note:
 * aller +vite sur la refonte / les projets suivants
 * bénéfice de l'échec
 
+---
+
+## How bookkeepers fucked up IT
+
+* No "forever" solutions
+* No "company stack"
+
+note:
+* => liberté de choix
+
+---
+
 ## Devenir Sales Ninja
 
 note:
 * Annabelle ROBERTS
+
+---
 
 ## Théorie de la veste
 
@@ -180,6 +222,8 @@ note:
 * Positiver l'échec
 * Devenir habitué à l'échec
 
+---
+
 ## Copain de loose
 
 note:
@@ -187,22 +231,38 @@ note:
 	* "Bravo, good loose"
 * Dédramatiser
   
+---
+
 ## Quota non atteint ?
 
 note:
-* pas assez essayé / trop restrictif
+* pas assez essayé OU trop restrictif
 * relancer: "you never know"
 
-# --- TRANSITION ---
+---
 
-## Softskill: meilleure gestion du temps
+🌐
+
+---
+
+## Mieux gérer son temps
+
+* Réunions / distractions
+* Economie de l'attention
 
 note:
-* Economie de l'attention
-* Réunions / distractions
+* Temps = ressource critique
+
+---
+
+## Pourquoi mieux gérer son temps ?
+
+note:
 * Temps de cerveau disponible
 * Pouvoir se nourrir ailleurs
 * objectif: 20% de temps libre
+
+---
 
 ## Comment l'IA va augmenter l'homme
 
@@ -210,13 +270,17 @@ note:
 
 note:
 * William ELDIN
-* Dédiaboliser l'IA
+
+---
 
 ## IA
 
 note:
 * L'IA libère du temps de cerveau
 * c^ mécanisation
+* Tâches répétitives / sans valeur ajoutée
+
+---
 
 ## IA
 
@@ -225,16 +289,22 @@ note:
 * Les machines n'ont pas d'émotions
 * La technologie vient de notre imagination
 
+---
+
 ## IA
 
 note:
 * Apprendre à apprendre, progresser, se développer
-* comme Lucy, c'est le cerveau qu'on n'utilise pas
+* ≠ Lucy, c'est le "vrai" cerveau qu'on n'utilise pas
   
-# --- TRANSITION ---
+---
+
+🌐
+
+---
 
 ## Conclusion
 note:
 * Quelles compétences pour travailler dans un monde digital en constante évolution ?
+* Transparence, empathie, bienveillance, apprendre
 * Machines = pas d'émotions
-* devper c^ bienveillance / empathie
