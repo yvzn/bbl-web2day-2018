@@ -1,27 +1,41 @@
-# Web2day 2018
+<!-- .slide: data-background="hsl(199, 78%, 47%)" -->
 
-note:
-* Web2day = conférences tech
-* ❤ c'est aussi :
-  * design
-  * entrepreunariat
-  * découverte => thèmes softskills
+# Web2day 2018
 
 ---
 
-## Softskills
+<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/web2day.jpg" -->
+
+---
+
+- Tech 
+- Design <!-- .element: class="fragment" -->
+- Entrepreunariat <!-- .element: class="fragment" -->
+- Découverte  <!-- .element: class="fragment" -->
+
+note:
+* Web2day ❤ car c'est aussi
+
+---
+
+<!-- .slide: data-background="hsl(330, 74%, 49%)" -->
+
+## Compétences ?
+
+---
+
+<!-- .slide: data-background="hsl(330, 74%, 10%)" data-background-image="resource/softskills.jpg" -->
 
 [📺](https://www.youtube.com/watch?v=hzTWmtshfwQ)
 
 note:
 * Quelles compétences pour travailler dans un monde digital en constante évolution ?
-* Table ronde
-* Céline BOISSON
+* Céline BOISSON (Google)
 * Jérôme HOARAU
 
 ---
 
-## Définition
+## Softskills
 
 note:
 * ≠ skills
@@ -29,20 +43,22 @@ note:
 
 ---
 
-## Exemples
-
 * Concentration
-* Motivation
-* Curiosité
-* Tenacité
-* Capacité à apprendre
+* Motivation <!-- .element: class="fragment" -->
+* Curiosité <!-- .element: class="fragment" -->
+* Tenacité <!-- .element: class="fragment" -->
+* Capacité à apprendre <!-- .element: class="fragment" -->
+* ... <!-- .element: class="fragment" -->
+
+note:
+* Exemples 
 
 ---
 
 ## Routines
 
 note:
-* Acq./Amélior° g^ routines 
+* c^ améliorer => g^ routines 
 
 ---
 
@@ -54,7 +70,7 @@ note:
 
 ---
 
-## 1 enseignement par jour
+## Un enseignement par jour
 
 note:
 * Carnet / 7j
@@ -62,6 +78,8 @@ note:
 * autre ex: digestion 10min / jour
 
 ---
+
+<!-- .slide: data-background="hsl(37, 95%, 35%)" -->
 
 ## Transparence et échange
 
@@ -72,49 +90,53 @@ note:
 
 ---
 
-## Agile methods are dangerous
+<!-- .slide: data-background="hsl(37, 95%, 10%)" data-background-image="resource/agile.jpg" class="inverse" -->
 
 [📺](https://www.youtube.com/watch?v=1eRb0tiKRPc)
 
 note:
+* Agile methods are dangerous
+* Titre volontairement provocateur
 * Julian HOLMES
 * ThoughtWorks (TechRadar)
-* Titre volontairement provocateur
 
 ---
 
-## Les méthodes agiles apportent de la valeur
+## Agilité ⇒ valeur
 
-* mais...
+* mais... <!-- .element: class="fragment" -->
 
 note:
-* Parfois pas le même niv° de compréhens°
+* Les méthodes agiles apportent de la valeur
+* pas le même niv° de compréhens°
 * C^? orienter la conversation ?
 
 ---
 
 ## Transparence...
-* "Ca y est, on est agile ?"
+
+* "Ca y est, on est agile ?" <!-- .element: class="fragment" -->
 
 note: 
-* l'agilité n'est pas l'objectif
+* agilité ≠ objectif
   * ∄ KPI agile
-  * mesurer dicte le comportement des personnes
+  * mesurer dicte le comportement
 
-* l'agilité rend transparent
-* plus de collaboration, s'adapter
-  * amélioration continue (rétrospective)
+* agilité rend transparent
+* ++collaboration, s'adapter
+* amélioration continue (rétro)
 
 ---
 
 ## ...et échange
-* "Ne me parlez pas d'agilité !"
+
+* "Ne me parlez pas d'agilité !" <!-- .element: class="fragment" -->
 
 note:
-* Ne pas imposer de force
+* Ne pas imposer 
 * Ne pas tout appeler "Agile"
 * "réduire le risque, augmenter la prédictibilité"
-	* arguement parlant
+	* arguement 
 * transition => la réussite (ou sa perception) est la clé
 
 ---
