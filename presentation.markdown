@@ -90,7 +90,7 @@ note:
 
 ---
 
-<!-- .slide: data-background="hsl(37, 95%, 10%)" data-background-image="resource/agile.jpg" class="inverse" -->
+<!-- .slide: data-background="hsl(37, 95%, 10%)" data-background-image="resource/agile.jpg" -->
 
 [📺](https://www.youtube.com/watch?v=1eRb0tiKRPc)
 
@@ -113,9 +113,7 @@ note:
 
 ---
 
-## Transparence...
-
-* "Ca y est, on est agile ?" <!-- .element: class="fragment" -->
+## "Ca y est, on est agile ?" 
 
 note: 
 * agilité ≠ objectif
@@ -128,9 +126,7 @@ note:
 
 ---
 
-## ...et échange
-
-* "Ne me parlez pas d'agilité !" <!-- .element: class="fragment" -->
+## "Ne me parlez pas d'agilité !"
 
 note:
 * Ne pas imposer 
@@ -141,44 +137,52 @@ note:
 
 ---
 
-🌐
-
----
+<!-- .slide: data-background="hsl(199, 78%, 47%)" -->
 
 ## Culture positive de l'échec
-
-* Résilience: "Je ne perds jamais, soit je gagne, soit j'apprends"
 
 note:
 * plx conférences/rex sur le sujet
 
 ---
 
-## Valoriser la prise de risque
-
-* Bienveillance
-* "Courageous penguin"
+## Résilience
 
 note:
+"Je ne perds jamais, soit je gagne, soit j'apprends"
+
+---
+
+## Bienveillance
+
+note:
+cf. agilité
+
+---
+
+## "Courageous penguin"
+
+note:
+* Valoriser la prise de risque
 * le 1er qui saute à l'eau (modèle)
 * risque = sécurité (risque sans sécurité = danger)
 * prise de risque seult si sécurité
 
 ---
 
-## Recast.Ai
+<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/web2day.jpg" -->
 
 [📺](https://www.youtube.com/watch?v=x8a6Bs-OHog)
 
 note:
 * Jasmine ANTEUNIS
+* Recast.Ai
 * NLP + Chatbots
 	* Rachat SAP
-* Jeune qui a réussi
+* Jeune + réussite
 
 ---
 
-## Recast.Ai
 * Décider (plus) vite
 
 note:
@@ -188,18 +192,17 @@ note:
 
 ---
 
-## How bookkeepers fucked up IT
+<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/web2day.jpg" -->
 
 [📺](https://www.youtube.com/watch?v=5dY3zJNB3xI)
 
 note:
 * Quentin ADAM
+* How bookkeepers fucked up IT
 
 ---
 
-## How bookkeepers fucked up IT
-
-* Savoir "supprimer du code"
+## supprimer du code
 
 note:
 * utiliser frameworks (ou softs) externes
@@ -207,9 +210,7 @@ note:
 
 ---
 
-## How bookkeepers fucked up IT
-
-* Rebuild everything
+## rebuild everything
 
 note:
 * se planter sur un premier projet mal construit
@@ -219,28 +220,30 @@ note:
 
 ---
 
-## How bookkeepers fucked up IT
-
-* No "forever" solutions
-* No "company stack"
+* No "forever" solutions 
+* No "company stack" <!-- .element: class="fragment" -->
 
 note:
 * => liberté de choix
 
 ---
 
-## Devenir Sales Ninja
+<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/web2day.jpg" -->
 
 note:
+* Devenir Sales Ninja
 * Annabelle ROBERTS
 
 ---
 
 ## Théorie de la veste
 
-* Quota de 3 vestes par jour
+---
+
+## 3 vestes par jour
 
 note:
+* Quota à paramétrer
 * Positiver l'échec
 * Devenir habitué à l'échec
 
@@ -263,35 +266,33 @@ note:
 
 ---
 
-🌐
+<!-- .slide: data-background="hsl(330, 74%, 49%)" -->
+
+## Gestion du temps
 
 ---
 
-## Mieux gérer son temps
-
-* Réunions / distractions
-* Economie de l'attention
+## Economie de l'attention
 
 note:
+* Réunions / distractions
 * Temps = ressource critique
 
 ---
 
-## Pourquoi mieux gérer son temps ?
+* Temps de cerveau disponible
+* Pouvoir se nourrir ailleurs <!-- .element: class="fragment" -->
 
 note:
-* Temps de cerveau disponible
-* Pouvoir se nourrir ailleurs
 * objectif: 20% de temps libre
 
 ---
 
-## Comment l'IA va augmenter l'homme
-
 [📺](https://www.youtube.com/watch?v=LkuUm6ZplAA)
 
 note:
-* William ELDIN
+* Comment l'IA va augmenter l'homme
+* William ELDIN (XXIII)
 
 ---
 
@@ -313,17 +314,16 @@ note:
 
 ---
 
-## IA
+* Apprendre à apprendre
+* progresser <!-- .element: class="fragment" -->
+* se développer <!-- .element: class="fragment" -->
 
 note:
-* Apprendre à apprendre, progresser, se développer
 * ≠ Lucy, c'est le "vrai" cerveau qu'on n'utilise pas
   
 ---
 
-🌐
-
----
+<!-- .slide: data-background="hsl(199, 78%, 47%)" -->
 
 ## Conclusion
 note:
