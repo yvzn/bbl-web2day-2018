@@ -1,6 +1,6 @@
 <!-- .slide: data-background="hsl(199, 78%, 47%)" -->
 
-# Web2day 2018
+# web2day 2018
 
 ---
 
@@ -8,10 +8,10 @@
 
 ---
 
-- Tech 
-- Design <!-- .element: class="fragment" -->
-- Entrepreunariat <!-- .element: class="fragment" -->
-- Découverte  <!-- .element: class="fragment" -->
+- tech 
+- design <!-- .element: class="fragment" -->
+- entrepreunariat <!-- .element: class="fragment" -->
+- découverte  <!-- .element: class="fragment" -->
 
 note:
 * Web2day ❤ car c'est aussi
@@ -20,7 +20,7 @@ note:
 
 <!-- .slide: data-background="hsl(330, 74%, 49%)" -->
 
-## Compétences ?
+## compétences ?
 
 ---
 
@@ -35,7 +35,7 @@ note:
 
 ---
 
-## Softskills
+## softskills
 
 note:
 * ≠ skills
@@ -43,11 +43,11 @@ note:
 
 ---
 
-* Concentration
-* Motivation <!-- .element: class="fragment" -->
-* Curiosité <!-- .element: class="fragment" -->
-* Tenacité <!-- .element: class="fragment" -->
-* Capacité à apprendre <!-- .element: class="fragment" -->
+* concentration
+* motivation <!-- .element: class="fragment" -->
+* curiosité <!-- .element: class="fragment" -->
+* tenacité <!-- .element: class="fragment" -->
+* capacité à apprendre <!-- .element: class="fragment" -->
 * ... <!-- .element: class="fragment" -->
 
 note:
@@ -55,14 +55,14 @@ note:
 
 ---
 
-## Routines
+## routines
 
 note:
 * c^ améliorer => g^ routines 
 
 ---
 
-## Introspection
+## introspection
 
 note:
 * Cette activité m'a appris à...
@@ -70,7 +70,7 @@ note:
 
 ---
 
-## Un enseignement par jour
+## un enseignement par jour
 
 note:
 * Carnet / 7j
@@ -81,7 +81,7 @@ note:
 
 <!-- .slide: data-background="hsl(37, 95%, 35%)" -->
 
-## Transparence et échange
+## transparence et échange
 
 note:
 * Sur quoi je travaille / mes objectifs
@@ -102,8 +102,7 @@ note:
 
 ---
 
-## Agilité ⇒ valeur
-
+* agilité ⇒ valeur
 * mais... <!-- .element: class="fragment" -->
 
 note:
@@ -113,64 +112,90 @@ note:
 
 ---
 
-## "Ca y est, on est agile ?" 
+## "ca y est, on est agile ?" 
 
-note: 
-* agilité ≠ objectif
-  * ∄ KPI agile
-  * mesurer dicte le comportement
+---
 
-* agilité rend transparent
+## l'agilité n'est pas un objectif
+
+note:
+* ∄ KPI agile
+* mesurer dicte le comportement
+
+---
+
+## l'agilité rend transparent
+
+note:
 * ++collaboration, s'adapter
 * amélioration continue (rétro)
 
 ---
 
-## "Ne me parlez pas d'agilité !"
+## "ne me parlez pas d'agilité !"
 
 note:
-* Ne pas imposer 
-* Ne pas tout appeler "Agile"
-* "réduire le risque, augmenter la prédictibilité"
-	* arguement 
+* Réticence sur le vocabulaire
+
+---
+
+* ne rien imposer 
+* ne pas tout étiqueter "agile" <!-- .element: class="fragment" -->
+
+---
+
+* réduire le risque
+* augmenter la prédictibilité <!-- .element: class="fragment" -->
+
+note:
+* arguements
 * transition => la réussite (ou sa perception) est la clé
 
 ---
 
 <!-- .slide: data-background="hsl(199, 78%, 47%)" -->
 
-## Culture positive de l'échec
+## positiver l'échec
 
 note:
+* culture positive...
 * plx conférences/rex sur le sujet
 
 ---
 
-## Résilience
+## résilience
 
 note:
 "Je ne perds jamais, soit je gagne, soit j'apprends"
 
 ---
 
-## Bienveillance
+## bienveillance
 
 note:
 cf. agilité
 
 ---
 
-## "Courageous penguin"
+<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/ian-parker-546256-unsplash.jpg" -->
+
+## "courageous penguin"
 
 note:
 * Valoriser la prise de risque
 * le 1er qui saute à l'eau (modèle)
-* risque = sécurité (risque sans sécurité = danger)
+
+---
+
+## risque = sécurité 
+
+note:
+* risque sans sécurité = danger
 * prise de risque seult si sécurité
 
 ---
 
-<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/web2day.jpg" -->
+<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/recast.ai.jpeg" -->
 
 [📺](https://www.youtube.com/watch?v=x8a6Bs-OHog)
 
@@ -183,22 +208,23 @@ note:
 
 ---
 
-* Décider (plus) vite
+* "décider (plus) vite"
+* "si on se trompe, on s'en rend compte plus rapidement" <!-- .element: class="fragment" -->
 
 note:
-* Si on se trompe, on s'en rend compte plus rapidement
-* Si ça n'apporte rien au produit, on abandonne
-* "Ils ne savaient pas que c'était impossible..."
+* Heuristique, en cas d'hésitation
+* si ça n'apporte rien au produit, on abandonne
+* "ils ne savaient pas que c'était impossible..."
 
 ---
 
-<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/web2day.jpg" -->
+<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/bookkeepers.jpg" -->
 
 [📺](https://www.youtube.com/watch?v=5dY3zJNB3xI)
 
 note:
-* Quentin ADAM
 * How bookkeepers fucked up IT
+* Quentin ADAM
 
 ---
 
@@ -220,15 +246,26 @@ note:
 
 ---
 
-* No "forever" solutions 
-* No "company stack" <!-- .element: class="fragment" -->
+<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/foreversolutions.jpg" -->
 
 note:
+* no "forever" solutions 
+
+---
+
+<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/companystack.jpg" -->
+
+note:
+* no "company stack"
 * => liberté de choix
 
 ---
 
-<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/web2day.jpg" -->
+
+
+---
+
+<!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/sales.jpg" -->
 
 note:
 * Devenir Sales Ninja
@@ -236,7 +273,7 @@ note:
 
 ---
 
-## Théorie de la veste
+## théorie de la veste
 
 ---
 
@@ -249,7 +286,7 @@ note:
 
 ---
 
-## Copain de loose
+## copain de loose
 
 note:
 * pour célébrer les vestes
@@ -258,7 +295,7 @@ note:
   
 ---
 
-## Quota non atteint ?
+## quota non atteint ?
 
 note:
 * pas assez essayé OU trop restrictif
@@ -268,25 +305,27 @@ note:
 
 <!-- .slide: data-background="hsl(330, 74%, 49%)" -->
 
-## Gestion du temps
+## gestion du temps
 
 ---
 
-## Economie de l'attention
+## economie de l'attention
 
 note:
-* Réunions / distractions
 * Temps = ressource critique
+* Réunions / distractions
 
 ---
 
-* Temps de cerveau disponible
-* Pouvoir se nourrir ailleurs <!-- .element: class="fragment" -->
+* temps de cerveau disponible
+* pouvoir se nourrir ailleurs <!-- .element: class="fragment" -->
 
 note:
 * objectif: 20% de temps libre
 
 ---
+
+<!-- .slide: data-background="hsl(330, 74%, 49%)" data-background-image="resource/xxiii.jpg" -->
 
 [📺](https://www.youtube.com/watch?v=LkuUm6ZplAA)
 
@@ -296,25 +335,24 @@ note:
 
 ---
 
-## IA
+## libérer du temps 
 
 note:
-* L'IA libère du temps de cerveau
 * c^ mécanisation
-* Tâches répétitives / sans valeur ajoutée
+* tâches répétitives / sans valeur ajoutée
 
 ---
 
-## IA
+## progresse lentement
 
 note:
-* encore loin de nous dépasser / progresse lentement
+* encore loin de nous dépasser
 * Les machines n'ont pas d'émotions
 * La technologie vient de notre imagination
 
 ---
 
-* Apprendre à apprendre
+* apprendre à apprendre
 * progresser <!-- .element: class="fragment" -->
 * se développer <!-- .element: class="fragment" -->
 
@@ -325,7 +363,8 @@ note:
 
 <!-- .slide: data-background="hsl(199, 78%, 47%)" -->
 
-## Conclusion
+## conclusion
+
 note:
 * Quelles compétences pour travailler dans un monde digital en constante évolution ?
 * Transparence, empathie, bienveillance, apprendre

@@ -46,3 +46,6 @@ Le Web2day est un événement organisé par La Cantine : https://www.lacantine.c
 
 Crédit vidéo : Réalisation, Motion design & Scénographie : Mstream : http://www.mstream.fr 
 Enregistré à Stereolux : http://www.stereolux.org
+
+Cette présentation utilise également des images libres de droits
+* Photo by Ian Parker on Unsplash
