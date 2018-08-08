@@ -6,15 +6,12 @@
 
 <!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/web2day.jpg" -->
 
----
-
-- tech 
-- design <!-- .element: class="fragment" -->
-- entrepreunariat <!-- .element: class="fragment" -->
-- découverte  <!-- .element: class="fragment" -->
-
 note:
 * Web2day ❤ car c'est aussi
+    - tech 
+    - design 
+    - entrepreunariat 
+    - découverte  
 
 ---
 
@@ -92,21 +89,28 @@ note:
 
 <!-- .slide: data-background="hsl(37, 95%, 10%)" data-background-image="resource/agile.jpg" -->
 
+### "Agile methods are dangerous"
+
 [📺](https://www.youtube.com/watch?v=1eRb0tiKRPc)
 
 note:
-* Agile methods are dangerous
 * Titre volontairement provocateur
 * Julian HOLMES
 * ThoughtWorks (TechRadar)
 
 ---
 
-* agilité ⇒ valeur
-* mais... <!-- .element: class="fragment" -->
+## agilité ⇒ valeur
 
 note:
 * Les méthodes agiles apportent de la valeur
+
+
+---
+
+## mais...
+
+note:
 * pas le même niv° de compréhens°
 * C^? orienter la conversation ?
 
@@ -116,18 +120,13 @@ note:
 
 ---
 
-## l'agilité n'est pas un objectif
+* l'agilité n'est pas un objectif
+* l'agilité rend transparent <!-- .element: class="fragment" -->
 
 note:
 * ∄ KPI agile
 * mesurer dicte le comportement
-
----
-
-## l'agilité rend transparent
-
-note:
-* ++collaboration, s'adapter
+* ++collaboration, adaptation
 * amélioration continue (rétro)
 
 ---
@@ -163,17 +162,12 @@ note:
 
 ---
 
-## résilience
+* résilience
+* bienveillance <!-- .element: class="fragment" -->
 
 note:
-"Je ne perds jamais, soit je gagne, soit j'apprends"
-
----
-
-## bienveillance
-
-note:
-cf. agilité
+* "Je ne perds jamais, soit je gagne, soit j'apprends"
+* cf. agilité
 
 ---
 
@@ -261,14 +255,11 @@ note:
 
 ---
 
-
-
----
-
 <!-- .slide: data-background="hsl(199, 78%, 10%)" data-background-image="resource/sales.jpg" -->
 
+## "devenir sales ninja"
+
 note:
-* Devenir Sales Ninja
 * Annabelle ROBERTS
 
 ---
@@ -317,10 +308,10 @@ note:
 
 ---
 
-* temps de cerveau disponible
-* pouvoir se nourrir ailleurs <!-- .element: class="fragment" -->
+## se nourrir ailleurs 
 
 note:
+* temps de cerveau disponible
 * objectif: 20% de temps libre
 
 ---
@@ -343,7 +334,7 @@ note:
 
 ---
 
-## progresse lentement
+## progrès lents
 
 note:
 * encore loin de nous dépasser
@@ -369,3 +360,7 @@ note:
 * Quelles compétences pour travailler dans un monde digital en constante évolution ?
 * Transparence, empathie, bienveillance, apprendre
 * Machines = pas d'émotions
+
+---
+
+# ✔
